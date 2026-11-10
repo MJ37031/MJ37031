@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:A7D8F0,100:D6F1FF&height=250&section=header&text=HI%20I%20am%20MinJi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+
 <!--
 **MJ37031/MJ37031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
