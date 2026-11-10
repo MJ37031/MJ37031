@@ -7,8 +7,9 @@
 <img src="https://img.shields.io/badge/Unreal_Engine-8064C2?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-55BFA5?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-4A90E2?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe_Photoshop-8064C2?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-8064C2?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-8064C2?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=White">
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-8064C2?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
 <img src="https://img.shields.io/badge/Autodesk_3ds_Max-65A765?style=for-the-badge&logo=autodesk&logoColor=white">
 
 ## 💻 Development Field
